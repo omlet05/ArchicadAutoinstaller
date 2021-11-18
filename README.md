@@ -1,5 +1,9 @@
 # ArchicadAutoinstaller
 
+This script is by default working for Archicad 24 FRA:
+* ARCHICAD-24-FRA-3008
+* ARCHICAD-24-FRA-Update-6004
+* Goodies_Suite-24-FRA-3008
 
 ## Deployment
 
